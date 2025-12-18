@@ -1,0 +1,491 @@
+🔹 TOPIC 1: CLASS & OBJECT (40 Java Programs)
+
+Create a class Student and display details using object.
+
+Write a program to calculate area of rectangle using class.
+
+Create a class Book and display multiple book objects.
+
+Program to store and display employee details.
+
+Create a class with method to find factorial.
+
+Program to check prime number using object.
+
+Create class to calculate simple interest.
+
+Program to swap two numbers using class method.
+
+Create class to find maximum of three numbers.
+
+Program to calculate average of marks.
+
+Create class to check even or odd.
+
+Program to calculate power of a number.
+
+Create class to generate Fibonacci series.
+
+Program to reverse a number using class.
+
+Create class to count digits in a number.
+
+Program to check Armstrong number.
+
+Create class to calculate circle area & perimeter.
+
+Program to check palindrome number.
+
+Create class for basic calculator.
+
+Program to display multiplication table.
+
+Create class to sum array elements.
+
+Program to find largest element in array.
+
+Create class to count vowels in string.
+
+Program to reverse a string using class.
+
+Create class to sort array.
+
+Program to find frequency of characters.
+
+Create class to check leap year.
+
+Program to calculate compound interest.
+
+Create class to print pattern.
+
+Program to check perfect number.
+
+Create class to convert temperature.
+
+Program to find GCD & LCM.
+
+Create class to display student grade.
+
+Program to count words in string.
+
+Create class to validate email.
+
+Program to calculate BMI.
+
+Create class to print prime numbers in range.
+
+Program to find sum of digits.
+
+Create class to merge two arrays.
+
+Program to demonstrate multiple objects.
+
+🔹 TOPIC 2: CONSTRUCTORS (40 Java Programs)
+
+Default constructor example.
+
+Parameterized constructor example.
+
+Constructor overloading program.
+
+Copy constructor simulation.
+
+Constructor with array input.
+
+Constructor to initialize student data.
+
+Constructor for bank account creation.
+
+Program showing constructor chaining.
+
+Constructor using this keyword.
+
+Constructor for rectangle area.
+
+Constructor for employee salary calculation.
+
+Private constructor example.
+
+Constructor calling another constructor.
+
+Program to count objects using constructor.
+
+Constructor for complex number addition.
+
+Constructor to initialize static variable.
+
+Constructor for string initialization.
+
+Constructor with validation logic.
+
+Constructor in inheritance.
+
+Program showing order of constructor execution.
+
+Constructor for immutable class.
+
+Constructor throwing exception.
+
+Constructor for file handling.
+
+Constructor for array sorting.
+
+Constructor to reverse string.
+
+Constructor for time conversion.
+
+Constructor for matrix initialization.
+
+Constructor for student result processing.
+
+Constructor with default values.
+
+Constructor for library system.
+
+Constructor for payroll system.
+
+Constructor for shopping cart.
+
+Constructor for login system.
+
+Constructor for password validation.
+
+Constructor for calculator.
+
+Constructor for interest calculation.
+
+Constructor for date validation.
+
+Constructor for vehicle class.
+
+Constructor for shape hierarchy.
+
+Constructor with object parameter.
+
+🔹 TOPIC 3: INHERITANCE (40 Java Programs)
+
+Single inheritance example.
+
+Multilevel inheritance program.
+
+Hierarchical inheritance example.
+
+Program using super keyword.
+
+Method overriding example.
+
+Constructor inheritance demo.
+
+Employee → Manager program.
+
+Person → Student → Result.
+
+Vehicle → Car → ElectricCar.
+
+Shape → Circle → Area calculation.
+
+Bank → Account → SavingsAccount.
+
+Program demonstrating IS-A relationship.
+
+Program to override toString().
+
+Program to override parent method.
+
+Program using protected members.
+
+Program to access parent variable.
+
+Inheritance with arrays.
+
+Inheritance with string processing.
+
+Inheritance with calculator.
+
+Inheritance for library system.
+
+Inheritance with payment system.
+
+Inheritance with student grading.
+
+Inheritance with insurance system.
+
+Inheritance with employee bonus.
+
+Inheritance with exam system.
+
+Program showing method hiding.
+
+Inheritance with file operations.
+
+Inheritance with bank withdrawal rules.
+
+Program showing constructor call order.
+
+Inheritance with shape hierarchy.
+
+Inheritance with shopping cart.
+
+Inheritance with login system.
+
+Inheritance with vehicle mileage.
+
+Inheritance with hospital system.
+
+Inheritance with tax calculation.
+
+Inheritance with sports scoring.
+
+Inheritance with university system.
+
+Inheritance with payroll system.
+
+Inheritance with ticket booking.
+
+Inheritance with restaurant billing.
+
+🔹 TOPIC 4: POLYMORPHISM (40 Java Programs)
+
+Compile-time polymorphism example.
+
+Method overloading example.
+
+Runtime polymorphism example.
+
+Parent reference child object.
+
+Dynamic method dispatch.
+
+Overload constructor program.
+
+Overload area calculation.
+
+Overload string processing.
+
+Overload calculator methods.
+
+Override area method in shapes.
+
+Override salary calculation.
+
+Override payment method.
+
+Override display method.
+
+Polymorphism in inheritance.
+
+Polymorphism using arrays.
+
+Polymorphism with bank accounts.
+
+Polymorphism with employees.
+
+Polymorphism with vehicles.
+
+Polymorphism with games.
+
+Polymorphism with file handling.
+
+Polymorphism with notification system.
+
+Polymorphism with login system.
+
+Polymorphism with sorting.
+
+Polymorphism with billing system.
+
+Polymorphism with discount calculation.
+
+Polymorphism with tax rules.
+
+Polymorphism with insurance.
+
+Polymorphism with media player.
+
+Polymorphism with shapes.
+
+Polymorphism with payment gateway.
+
+Polymorphism with exam evaluation.
+
+Polymorphism with reporting system.
+
+Polymorphism with logging.
+
+Polymorphism with customer support.
+
+Polymorphism with booking system.
+
+Polymorphism with authentication.
+
+Polymorphism with messaging.
+
+Polymorphism with alerts.
+
+Polymorphism with services.
+
+Polymorphism with dashboard.
+
+🔹 TOPIC 5: ABSTRACTION & INTERFACE (40 Java Programs)
+
+Abstract class example.
+
+Abstract method implementation.
+
+Interface implementation.
+
+Multiple interfaces implementation.
+
+Abstract class with constructor.
+
+Interface with default method.
+
+Interface with static method.
+
+Payment system using interface.
+
+Shape abstraction program.
+
+Animal sound abstraction.
+
+Banking abstraction example.
+
+Employee abstraction example.
+
+Abstract class with inheritance.
+
+Interface vs abstract class program.
+
+Abstract class for vehicle.
+
+Interface for calculator.
+
+Interface for login system.
+
+Interface for notification system.
+
+Abstract class for exam system.
+
+Interface for payment gateway.
+
+Interface for sorting strategy.
+
+Abstract class for billing system.
+
+Interface for tax calculation.
+
+Interface for authentication.
+
+Abstract class for media player.
+
+Interface for database connection.
+
+Interface for file operations.
+
+Abstract class for game system.
+
+Interface for logging.
+
+Interface for report generation.
+
+Abstract class for employee hierarchy.
+
+Interface for API service.
+
+Interface for message sender.
+
+Abstract class for order processing.
+
+Interface for cloud storage.
+
+Abstract class for user roles.
+
+Interface for encryption.
+
+Interface for validation.
+
+Abstract class for booking system.
+
+Mini project using abstraction & interface.
+
+🔹 TOPIC 6: STRING & OTHER OOPS UTILITIES (40 Java Programs)
+
+Reverse string program.
+
+Check palindrome string.
+
+Count vowels in string.
+
+Count words in string.
+
+Remove spaces from string.
+
+String comparison program.
+
+String sorting program.
+
+StringBuilder vs String.
+
+Check anagram strings.
+
+Find longest word.
+
+Replace substring.
+
+Convert string case.
+
+String tokenization.
+
+Count character frequency.
+
+Remove duplicate characters.
+
+String immutability demo.
+
+String concatenation performance.
+
+Reverse words in string.
+
+Validate email string.
+
+Validate password string.
+
+Extract digits from string.
+
+Remove special characters.
+
+Find substring occurrences.
+
+Split string program.
+
+String rotation check.
+
+Count consonants.
+
+Remove vowels.
+
+Reverse each word.
+
+First non-repeating character.
+
+String compression.
+
+Check pangram.
+
+Longest palindrome substring.
+
+String pattern matching.
+
+String encryption program.
+
+String formatting.
+
+StringBuilder append demo.
+
+StringBuffer thread safety demo.
+
+String input validation.
+
+Menu-driven string program.
+
+Mini string utility project.
